@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/administration/page": "/administration",
+  "/appraisal/page": "/appraisal",
+  "/attendance/page": "/attendance",
+  "/dashboard/page": "/dashboard",
+  "/hr/page": "/hr",
+  "/leaves/page": "/leaves",
+  "/login/page": "/login",
+  "/manager-dashboard/page": "/manager-dashboard",
+  "/page": "/",
+  "/profile/page": "/profile",
+  "/transfers/page": "/transfers"
+}

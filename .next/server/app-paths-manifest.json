@@ -1,0 +1,15 @@
+{
+  "/_global-error/page": "app/_global-error/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/administration/page": "app/administration/page.js",
+  "/appraisal/page": "app/appraisal/page.js",
+  "/attendance/page": "app/attendance/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/hr/page": "app/hr/page.js",
+  "/leaves/page": "app/leaves/page.js",
+  "/login/page": "app/login/page.js",
+  "/manager-dashboard/page": "app/manager-dashboard/page.js",
+  "/page": "app/page.js",
+  "/profile/page": "app/profile/page.js",
+  "/transfers/page": "app/transfers/page.js"
+}

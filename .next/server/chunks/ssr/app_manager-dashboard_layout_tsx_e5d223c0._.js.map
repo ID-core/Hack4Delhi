@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../app/manager-dashboard/layout.tsx"],"sourcesContent":["export default function ManagerDashboardLayout({\r\n  children,\r\n}: {\r\n  children: React.ReactNode\r\n}) {\r\n  return children\r\n}\r\n"],"names":[],"mappings":"uCAAe,SAAS,EAAuB,UAC7C,CAAQ,CAGT,EACC,OAAO,CACT"}
